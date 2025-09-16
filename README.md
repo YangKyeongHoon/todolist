@@ -1,4 +1,4 @@
-# CLI 할 일 목록 (Todo List)
+# 할 일 목록 (Todo List)
 
 Python으로 만든 간단한 커맨드라인 기반 할 일 목록 애플리케이션입니다.
 
